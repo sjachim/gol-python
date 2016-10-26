@@ -89,3 +89,5 @@ singleCellDiesOfLonelyness()
 cellWithTwoFriendsSurvives()
 threeCellsGiveBirthToNewCell()
 cellsDieOfOverpopulation()
+
+print "Success. Tests passed."
